@@ -153,23 +153,21 @@ foreach ($colors as $color) {
 
 
         <section>
-            <h2>8. match</h2>
-            <pre><code>&lt;?php
-    $bool = true;
-    $a = "1";
-    $b = 4;
+    <h2>9. match Expression (PHP 8+)</h2>
+    <pre><code>&lt;?php
+$grade = 'B';
 
-    $result = match ($a) {
-        
-    }
+$result = match ($grade) {
+    'A' => 'Excellent',
+    'B' => 'Good',
+    'C' => 'Fair',
+    'D' => 'Poor',
+    default => 'Invalid grade',
+};
 
-
-
+echo $result;  // Output: Good
 ?&gt;</code></pre>
-        </section>
-
-
-
+</section>
 
 
     </main>
