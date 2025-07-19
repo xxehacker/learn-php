@@ -1,5 +1,5 @@
 <div align="center" style="margin-bottom: 1rem;">
-  <img src="https://www.php.net//images/logos/php-logo.svg" width="180px" alt="PHP Logo" />
+  <img src="https://raw.githubusercontent.com/xxehacker/learn-php/refs/heads/main/php2-svgrepo-com.svg" width="180px" alt="PHP Logo" />
 </div>
 
 <h2 align="center" style="margin-top: 0; font-size: 2rem; font-weight: bold;">LEARN-PHP</h2>
