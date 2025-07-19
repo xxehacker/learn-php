@@ -1,9 +1,9 @@
 <div align="left">
-    <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/ec559a9f6bfd399b82bb44393651661b08aaf7ba/icons/folder-markdown-open.svg" width="40%" align="left" style="margin-right: 15px"/>
+    <img src="https://www.php.net//images/logos/php-logo.svg" width="40%" align="left" style="margin-right: 15px"/>
     <div style="display: inline-block;">
         <h2 style="display: inline-block; vertical-align: middle; margin-top: 0;">LEARN-PHP</h2>
         <p>
-	<em><code>❯ REPLACE-ME</code></em>
+	<em><code>❯This repository contains hands-on examples, notes, and mini-projects to help you learn PHP from scratch. Whether you're new to programming or coming from another language, this guide will walk you through the fundamentals of PHP including variables, control structures, functions, forms, and more.</code></em>
 </p>
         <p>
 	<img src="https://img.shields.io/github/license/xxehacker/learn-php?style=flat-square&logo=opensourceinitiative&logoColor=white&color=00ffd7" alt="license">
