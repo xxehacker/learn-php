@@ -1,6 +1,6 @@
 <div align="left">
     <img src="https://www.php.net//images/logos/php-logo.svg" width="40%" align="left" style="margin-right: 15px"/>
-    <div style="display: inline-block;">
+    <div style="display: inline-block; margin-top:10px">
         <h2 style="display: inline-block; vertical-align: middle; margin-top: 0;">LEARN-PHP</h2>
         <p>
 	<em><code>❯This repository contains hands-on examples, notes, and mini-projects to help you learn PHP from scratch. Whether you're new to programming or coming from another language, this guide will walk you through the fundamentals of PHP including variables, control structures, functions, forms, and more.</code></em>
